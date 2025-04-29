@@ -1,5 +1,5 @@
 - [ ] Make/Find the code
-- [ ] Find all NBA players form 1979 to now (when the 3 pointer got added)
+- [ ] Find all NBA players 
 - [ ] Make a website
 - [ ] Use other GitHub projects with similar ideas as refrence
 - [ ] Keep my roadmap updated
