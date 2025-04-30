@@ -1,5 +1,4 @@
 
-
 def get_NBA_stats():
     year=input("Pick a NBA season are you interested in?: ")
 player=input("Which player do you want to get stats for?: ")
@@ -125,3 +124,4 @@ for row in player_info:
 player.save()
 
 print ("Successfully inserted player general traditional season total data into the database!")
+
